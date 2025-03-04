@@ -2,6 +2,6 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   server: {
-    allowedHosts: ['weatherapi-zybd.onrender.com1'], // Allow this specific host
+    allowedHosts: ['weatherapi-zybd.onrender.com'], // Allow this specific host
   },
 });
